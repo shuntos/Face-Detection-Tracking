@@ -1,5 +1,5 @@
 # Face-Detection-Tracking
-Detect human faces using MTCNN and SORT tracks the faces throughout the videos. 
+Detect human faces using MTCNN and SORT tracks the faces throughout the video. 
 
 ## Reference 
 https://github.com/ipazc/mtcnn  ( For Detecting Multiple Faces in Frames) 
